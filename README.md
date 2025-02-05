@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Taiwo (@theejhay)
 
 🚀 **About Me**  
-I'm a **Senior Software Engineer** with extensive experience in **full-stack development**, specialising in **Java, Kotlin, PHP, Vue, JavaScript**, and related technologies. I have over **9 years of experience in GraphQL and PHP**, as well as deep expertise in **serverless architectures, API design, and containerisation (Docker)**.  
+I'm a **Senior Software Engineer** with over **9 years of experience with extensive experience in **full-stack development**, specialising in **Java, Kotlin, PHP, Vue, JavaScript**, GraphQL, and PHP**, as well as deep expertise in **serverless architectures, API design, and containerisation (Docker)**, and related technologies.
 
 I have successfully worked with **small and medium-sized companies** to build **complex back-end solutions**, collaborating with **product managers, business analysts, and development teams** to align applications with business needs. My experience spans across **digital libraries, media services, payment gateway integrations, and scalable SaaS applications**.  
 
-💡 I also have a strong academic background, holding a **Bachelor’s in Computer Science**, a **Master’s in Data Science**, and a **Master’s in International Business Management**.  
+💡 I also have a strong academic background, holding a **Bachelor’s in Computer Science**, a **Master’s in Data Science**, and a **Master’s in Data Science**.  
 
 📌 Currently, I work as a **Senior Software Engineer** with a **FinTech** company in the UK.  
 
